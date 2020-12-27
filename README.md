@@ -2,4 +2,4 @@
 
 For use with JSON Server
 
-Vue Mastery — [Real World Vue 3](https://www.vuemastery.com/courses/real-world-vue3/)
+For a photo gallery project
